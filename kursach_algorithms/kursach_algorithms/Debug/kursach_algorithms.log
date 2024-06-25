@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\nikit\source\repos\kursach_algorithms\kursach_algorithms\main.cpp(85,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nikit\source\repos\kursach_algorithms\kursach_algorithms\main.cpp(98,9): warning C4101: FileName: неиспользованная локальная переменная
+  kursach_algorithms.vcxproj -> C:\Users\nikit\source\repos\kursach_algorithms\Debug\kursach_algorithms.exe
